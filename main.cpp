@@ -9,6 +9,9 @@ int main() {
     const ROWS = 15;
     const SEATS = 30;
     int seatIndex [ROWS][SEATS];
+    Int ticketprice [2];
+    Cout << " Enter ticket price for rows 1 to 5";
+        Cin >> ticketprice [0];
         /*
          * TODO- a switch statement to call the functions depending on user input.
          */
